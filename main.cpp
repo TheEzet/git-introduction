@@ -5,7 +5,7 @@
 #include <cstdlib>
 #include <random>
 #include <chrono>
-
+// Branch learning
 ////// parameters //////
 const int inTask = 2; // Number of tasks
 const std::vector<double> vlearning(0.8,0.5); // Learning rate task 1 and 2
